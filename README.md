@@ -2,7 +2,7 @@
 
 Descrição: 
 -----------
-Projeto da disciplina de laboratório de programação 1, com o objetivo de recriar o jogo SEEGA [https://pt.wikipedia.org/wiki/Seega_(jogo)] usando a linguagem C
+Projeto da disciplina de laboratório de programação 1, com o objetivo de recriar o jogo [SEEGA](https://pt.wikipedia.org/wiki/Seega_(jogo)) usando a linguagem C
 
 Funcionalidades:
 ----------
